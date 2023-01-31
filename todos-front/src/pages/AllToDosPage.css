@@ -1,0 +1,42 @@
+.AllToDosPage {
+  display: grid;
+  place-items: center;
+}
+
+#pageTitle {margin-top: 50px;}
+
+.list {
+  display: grid;
+  place-items: center;
+}
+
+.singleToDo {
+  color: blue;
+  font-size: 0.9rem;
+  margin-left: 8px; 
+  margin-top: 5px;
+}
+
+.todo-editBtn {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  border-bottom: 1px dotted gray;
+  padding: 5px 0;
+}
+
+#delete{
+  border-radius: 50%;
+  color: white;
+  font-weight: 700;
+  border-color: white;
+  background-color: red;
+}
+
+.btns {
+  display: flex;
+  gap: 8px;
+}
+
+
+

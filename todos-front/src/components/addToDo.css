@@ -1,0 +1,23 @@
+.newToDo {
+  display: flex;
+  flex-direction: row;
+}
+
+form {
+  display: flex;
+}
+
+.input-group-text {
+  width: 90px;
+  text-align: center;
+}
+
+#add-todo {
+  width: 400px;
+  margin-right: 8px;
+}
+
+.addToDo {
+  margin: 32px 0;
+}
+

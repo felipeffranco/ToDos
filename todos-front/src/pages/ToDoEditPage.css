@@ -1,0 +1,21 @@
+.ToDoEditPage {
+  margin-top: 30px;
+  display: grid;
+  place-items: center;
+}
+
+.todo-edit {
+  width: 60px;
+}
+
+#field {
+  width: 700px;
+}
+
+#completed {
+  width: 60px
+}
+
+.save-btn2 {
+  margin-left: 8px;
+}
